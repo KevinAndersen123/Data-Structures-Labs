@@ -1,0 +1,3 @@
+﻿  BinaryTreeTest.cpp
+  C:\Users\gameuser\ds19-KevinAndersen123\DSA_Lab5-BinaryTree\BinaryTreeIterator.h(16) : warning C4172: returning address of local variable or temporary: element
+  DSA_Lab5-BinaryTree.vcxproj -> C:\Users\gameuser\ds19-KevinAndersen123\DSA_Lab5-BinaryTree\Debug\DSA_Lab5-BinaryTree.exe

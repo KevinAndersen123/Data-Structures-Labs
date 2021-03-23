@@ -1,0 +1,22 @@
+﻿  Main.cpp
+C:\Users\gameuser\ds19-KevinAndersen123\DSA_Lab4\Graph.h(109,30): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gameuser\ds19-KevinAndersen123\DSA_Lab4\Graph.h(108): message :  while compiling class template member function 'Graph<NodeData,int>::~Graph(void)'
+C:\Users\gameuser\ds19-KevinAndersen123\DSA_Lab4\Main.cpp(20): message :  see reference to function template instantiation 'Graph<NodeData,int>::~Graph(void)' being compiled
+C:\Users\gameuser\ds19-KevinAndersen123\DSA_Lab4\Main.cpp(20): message :  see reference to class template instantiation 'Graph<NodeData,int>' being compiled
+C:\Users\gameuser\ds19-KevinAndersen123\DSA_Lab4\Graph.h(407,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gameuser\ds19-KevinAndersen123\DSA_Lab4\Graph.h(405): message :  while compiling class template member function 'void Graph<NodeData,int>::ucs(GraphNode<NodeData,int> *,GraphNode<NodeData,int> *,std::function<void (GraphNode<NodeData,int> *)>,std::vector<GraphNode<NodeData,int> *,std::allocator<_Ty>> &)'
+C:\Users\gameuser\ds19-KevinAndersen123\DSA_Lab4\Graph.h(405): message :         with
+C:\Users\gameuser\ds19-KevinAndersen123\DSA_Lab4\Graph.h(405): message :         [
+C:\Users\gameuser\ds19-KevinAndersen123\DSA_Lab4\Graph.h(405): message :             _Ty=GraphNode<NodeData,int> *
+C:\Users\gameuser\ds19-KevinAndersen123\DSA_Lab4\Graph.h(405): message :         ]
+C:\Users\gameuser\ds19-KevinAndersen123\DSA_Lab4\Main.cpp(46): message :  see reference to function template instantiation 'void Graph<NodeData,int>::ucs(GraphNode<NodeData,int> *,GraphNode<NodeData,int> *,std::function<void (GraphNode<NodeData,int> *)>,std::vector<GraphNode<NodeData,int> *,std::allocator<_Ty>> &)' being compiled
+C:\Users\gameuser\ds19-KevinAndersen123\DSA_Lab4\Main.cpp(46): message :         with
+C:\Users\gameuser\ds19-KevinAndersen123\DSA_Lab4\Main.cpp(46): message :         [
+C:\Users\gameuser\ds19-KevinAndersen123\DSA_Lab4\Main.cpp(46): message :             _Ty=GraphNode<NodeData,int> *
+C:\Users\gameuser\ds19-KevinAndersen123\DSA_Lab4\Main.cpp(46): message :         ]
+C:\Users\gameuser\ds19-KevinAndersen123\DSA_Lab4\Graph.h(272,32): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gameuser\ds19-KevinAndersen123\DSA_Lab4\Graph.h(271): message :  while compiling class template member function 'void Graph<NodeData,int>::clearMarks(void)'
+C:\Users\gameuser\ds19-KevinAndersen123\DSA_Lab4\Graph.h(446): message :  see reference to function template instantiation 'void Graph<NodeData,int>::clearMarks(void)' being compiled
+C:\Users\gameuser\ds19-KevinAndersen123\DSA_Lab4\Graph.h(98): message :  while compiling class template member function 'Graph<NodeData,int>::Graph(int)'
+C:\Users\gameuser\ds19-KevinAndersen123\DSA_Lab4\Main.cpp(20): message :  see reference to function template instantiation 'Graph<NodeData,int>::Graph(int)' being compiled
+  DSA_Lab4.vcxproj -> C:\Users\gameuser\ds19-KevinAndersen123\DSA_Lab4\Debug\DSA_Lab4.exe

@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\gameuser\ds19-KevinAndersen123\DSA_Lab3\Graph.h(77,30): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gameuser\ds19-KevinAndersen123\DSA_Lab3\Graph.h(76): message :  while compiling class template member function 'Graph<NodeData,int>::~Graph(void)'
+C:\Users\gameuser\ds19-KevinAndersen123\DSA_Lab3\main.cpp(20): message :  see reference to function template instantiation 'Graph<NodeData,int>::~Graph(void)' being compiled
+C:\Users\gameuser\ds19-KevinAndersen123\DSA_Lab3\main.cpp(20): message :  see reference to class template instantiation 'Graph<NodeData,int>' being compiled
+C:\Users\gameuser\ds19-KevinAndersen123\DSA_Lab3\Graph.h(239,32): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gameuser\ds19-KevinAndersen123\DSA_Lab3\Graph.h(238): message :  while compiling class template member function 'void Graph<NodeData,int>::clearMarks(void)'
+C:\Users\gameuser\ds19-KevinAndersen123\DSA_Lab3\main.cpp(86): message :  see reference to function template instantiation 'void Graph<NodeData,int>::clearMarks(void)' being compiled
+  LINK : C:\Users\gameuser\ds19-KevinAndersen123\DSA_Lab3\Debug\DSA_Lab3.exe not found or not built by the last incremental link; performing full link
+  DSA_Lab3.vcxproj -> C:\Users\gameuser\ds19-KevinAndersen123\DSA_Lab3\Debug\DSA_Lab3.exe
